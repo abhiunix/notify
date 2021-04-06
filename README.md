@@ -16,19 +16,13 @@ Simple bash script to get notification on telegram when a task is completed in y
 
 >- You will get your token to access the HTTP API, this HTTP API token is your bot_token.
 ![](https://raw.githubusercontent.com/abhiunix/notify/master/Supporting_Material/step3.png)
-	
+
 ### Get your chatid:
 
->- Open Telegram and search for @chatid_echo_bot, send him a “/start” message or click on "https://t.me/chatid_echo_bot". You will get your chatid.
+>- Now Open Telegram and search for @chatid_echo_bot, send him a “/start” message or click on "https://t.me/chatid_echo_bot" to get your chatid.
 ![](https://raw.githubusercontent.com/abhiunix/notify/master/Supporting_Material/step1_1.png)
-
-
-
-
 
 
 ### Usage: 
 
 > ./notify.sh "SQL injection on target.com"
-
-
