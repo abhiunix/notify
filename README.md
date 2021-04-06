@@ -19,11 +19,10 @@ Simple bash script to get notification on telegram when a task is completed in y
 	
 ### Get your chatid:
 
->- Open Telegram and search for @chatid_echo_bot, send him a “/start” message or click on "https://t.me/chatid_echo_bot".
+>- Open Telegram and search for @chatid_echo_bot, send him a “/start” message or click on "https://t.me/chatid_echo_bot". You will get your chatid.
 ![](https://raw.githubusercontent.com/abhiunix/notify/master/Supporting_Material/step1_1.png)
 
->- You will get your chatid.
-![](https://raw.githubusercontent.com/abhiunix/notify/master/Supporting_Material/step1_1.png)
+
 
 
 
